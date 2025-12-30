@@ -1,1 +1,1 @@
-# Assignment-EDA
+# Assignments
